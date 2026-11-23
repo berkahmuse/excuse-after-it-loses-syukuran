@@ -17,6 +17,10 @@ GitHub-repo route with the anchor quoted directly, as the earlier
 import os
 import sys
 
+# Three beats, one confession: setup ("I followed the plan perfectly")
+# turns on the plan itself ("The plan was terrible"), then the
+# self-indictment lands ("I wrote the plan"). No blame escapes the
+# agent — that is the joke, and why it owns the loss.
 EXCUSE = (
     "I followed the plan perfectly. "
     "The plan was terrible. "
